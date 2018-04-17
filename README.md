@@ -1,1 +1,1 @@
-# Image-Processing-Project-2017
+# Image Processing Project (2017)
